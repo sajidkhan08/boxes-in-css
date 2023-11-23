@@ -13,3 +13,14 @@
     width: 20px;
     height: 20px;
 } */
+
+/* LIMITING WIdTH */
+/* td.description{
+    min-width: 450px;
+    max-width: 650px;
+    text-align: left;
+    padding: 5px;
+    margin: 0px;
+} */
+
+/* LIMITING HEIGHT */
